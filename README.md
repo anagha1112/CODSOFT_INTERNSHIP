@@ -61,9 +61,9 @@ This internship provided me with a great opportunity to work on real-world data 
 
 ## 🌐 Connect With Me
 
-- 🔗 [Medium](https://www.linkedin.com/in/your-profile)
-- 🔗 [Dev](https://www.linkedin.com/in/your-profile)
-- 📧 oneone11165@gmail.com.com
+- 🔗 [Medium](https://medium.com/@oneone11165)
+- 🔗 [Dev](https://dev.to/codestory__)
+- 📧 oneone11165@gmail.com
 - 💻 [CodSoft](https://www.codsoft.in)
 
 ---
