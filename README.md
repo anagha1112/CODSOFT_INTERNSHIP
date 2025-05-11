@@ -36,4 +36,43 @@ This internship provided me with a great opportunity to work on real-world data 
 ---
 
 ## 📂 Repository Structure
+CODSOFT/
+├── Task 1 - Titanic Survival Prediction/
+│ ├── titanic.ipynb
+│ ├── dataset.csv
+│ └── README.md
+├── Task 2 - Movie Rating Prediction/
+│ ├── movie_rating.ipynb
+│ └── dataset.csv
+├── Task 3 - Iris Flower Classification/
+│ ├── iris_classification.ipynb
+│ └── dataset.csv
+├── Task 4 - Sales Prediction/
+│ ├── sales_prediction.ipynb
+│ └── dataset.csv
+├── Task 5 - Credit Card Fraud Detection/
+│ ├── fraud_detection.ipynb
+│ └── dataset.csv
+└── README.md
+
+---
+
+## 🌐 Connect With Me
+
+- 🔗 [Medium](https://www.linkedin.com/in/your-profile)
+- 🔗 [Dev](https://www.linkedin.com/in/your-profile)
+- 📧 oneone11165@gmail.com.com
+- 💻 [CodSoft](https://www.codsoft.in)
+
+---
+
+## 🏁 Final Note
+
+This repository reflects my learning journey and projects during the internship. I’m grateful for the opportunity and excited to continue growing as a Data Scientist.  
+Feel free to explore the code, clone the projects, or reach out with any feedback or questions!
+
+---
+
+**#CodSoft #DataScience #Internship #MachineLearning #Python**
+
 
