@@ -35,7 +35,42 @@ This internship provided me with a great opportunity to work on real-world data 
 
 ---
 
-<pre> ## 📂 Repository Structure CODSOFT/ ├── Task 1 - Titanic Survival Prediction/ │ ├── titanic.ipynb │ ├── dataset.csv │ └── README.md ├── Task 2 - Movie Rating Prediction/ │ ├── movie_rating.ipynb │ └── dataset.csv ├── Task 3 - Iris Flower Classification/ │ ├── iris_classification.ipynb │ └── dataset.csv ├── Task 4 - Sales Prediction/ │ ├── sales_prediction.ipynb │ └── dataset.csv ├── Task 5 - Credit Card Fraud Detection/ │ ├── fraud_detection.ipynb │ └── dataset.csv └── README.md </pre>
+📂 Repository Structure
+CODSOFT/
+
+Task 1 – Titanic Survival Prediction/
+
+titanic.ipynb
+
+dataset.csv
+
+README.md
+
+Task 2 – Movie Rating Prediction/
+
+movie_rating.ipynb
+
+dataset.csv
+
+Task 3 – Iris Flower Classification/
+
+iris_classification.ipynb
+
+dataset.csv
+
+Task 4 – Sales Prediction/
+
+sales_prediction.ipynb
+
+dataset.csv
+
+Task 5 – Credit Card Fraud Detection/
+
+fraud_detection.ipynb
+
+dataset.csv
+
+README.md
 
 ------
 
