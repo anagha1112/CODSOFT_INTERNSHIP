@@ -29,7 +29,7 @@ This internship provided me with a great opportunity to work on real-world data 
 | 2       | Iris Flower Classification           | ML model to classify iris species using petal and sepal measurements.       | ✅ Completed |
 
 
-> 📌 I completed all 5 tasks to go beyond the basic requirement and explore more real-world challenges.
+> 📌 I completed 2 tasks to go beyond the basic requirement and explore more real-world challenges.
 
 ---
 
