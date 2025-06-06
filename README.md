@@ -26,10 +26,8 @@ This internship provided me with a great opportunity to work on real-world data 
 | Task No. | Project Title                        | Description                                                                 | Status   |
 |---------|--------------------------------------|-----------------------------------------------------------------------------|----------|
 | 1       | Titanic Survival Prediction          | Classification model to predict passenger survival based on features like age, gender, class, etc. | ✅ Completed |
-| 2       | Movie Rating Prediction              | Regression model to predict movie ratings using features like genre, director, actors. | ✅ Completed |
-| 3       | Iris Flower Classification           | ML model to classify iris species using petal and sepal measurements.       | ✅ Completed |
-| 4       | Sales Prediction                     | Predicting future product sales based on marketing and advertisement data.  | ✅ Completed |
-| 5       | Credit Card Fraud Detection          | Classification model to detect fraudulent credit card transactions.         | ✅ Completed (optional) |
+| 2       | Iris Flower Classification           | ML model to classify iris species using petal and sepal measurements.       | ✅ Completed |
+
 
 > 📌 I completed all 5 tasks to go beyond the basic requirement and explore more real-world challenges.
 
@@ -41,19 +39,10 @@ This internship provided me with a great opportunity to work on real-world data 
 
     - `titanic.ipynb`
     - `dataset.csv`
-    - `README.md`
-
-    - `movie_rating.ipynb`
-    - `dataset.csv`
 
     - `iris_classification.ipynb`
     - `dataset.csv`
 
-    - `sales_prediction.ipynb`
-    - `dataset.csv`
- 
-    - `fraud_detection.ipynb`
-    - `dataset.csv`
     - `README.md`
 
 
