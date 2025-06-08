@@ -30,7 +30,7 @@ This internship provided me with a great opportunity to work on real-world data 
 | 3       | Sales Prediction                     | ML model to predict product sales based on diff Ad promotions               | ✅ Completed |
 
 
-> 📌 I completed 2 tasks to go beyond the basic requirement and explore more real-world challenges.
+> 📌 I completed 3 tasks to go beyond the basic requirement and explore more real-world challenges.
 
 ---
 
@@ -43,6 +43,8 @@ This internship provided me with a great opportunity to work on real-world data 
 
     - `iris_classification.ipynb`
     - `dataset.csv`
+ 
+    - `sales-prediction.ipynb`
 
     - `README.md`
 
