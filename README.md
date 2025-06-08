@@ -27,6 +27,7 @@ This internship provided me with a great opportunity to work on real-world data 
 |---------|--------------------------------------|-----------------------------------------------------------------------------|----------|
 | 1       | Titanic Survival Prediction          | Classification model to predict passenger survival based on features like age, gender, class, etc. | ✅ Completed |
 | 2       | Iris Flower Classification           | ML model to classify iris species using petal and sepal measurements.       | ✅ Completed |
+| 3       | Sales Prediction                     | ML model to predict product sales based on diff Ad promotions               | ✅ Completed |
 
 
 > 📌 I completed 2 tasks to go beyond the basic requirement and explore more real-world challenges.
